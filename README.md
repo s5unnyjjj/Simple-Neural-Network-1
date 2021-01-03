@@ -5,3 +5,10 @@ Simple Neural Network, Simple NN
 python 3.7  
 numpy  
 matplotlib  
+
+# Structure
+Structure of Neural Network
+
+
+# Result
+Error Graph
