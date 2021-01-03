@@ -15,4 +15,5 @@ Structure of Neural Network
 
 # Result
 Error Graph
+
 ![errorGraph](https://user-images.githubusercontent.com/70457520/103469227-6850cb00-4da5-11eb-924b-96bd1c0d2975.png)
