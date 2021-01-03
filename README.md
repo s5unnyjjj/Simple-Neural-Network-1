@@ -9,11 +9,11 @@ matplotlib
 # Structure
 Structure of Neural Network
 
-![그림3](https://user-images.githubusercontent.com/70457520/103469220-49eacf80-4da5-11eb-9c0e-23d62bac1191.png)
+![Structure](https://user-images.githubusercontent.com/70457520/103469314-823edd80-4da6-11eb-9103-e98812cdc311.png)
 
 
 
 # Result
 Error Graph
 
-![errorGraph](https://user-images.githubusercontent.com/70457520/103469227-6850cb00-4da5-11eb-924b-96bd1c0d2975.png)
+![Error Graph ](https://user-images.githubusercontent.com/70457520/103469315-82d77400-4da6-11eb-9229-45a97f61c89d.png)
